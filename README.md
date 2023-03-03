@@ -1,2 +1,4 @@
 # ML_Journey
-Learning ML from mutiple sources new projects uploading soon. :)
+This is a continuously updated repository that documents personal journey on learning data science, machine learning related topics.
+New projects coming soon :)
+
